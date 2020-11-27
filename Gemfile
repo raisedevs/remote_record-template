@@ -2,7 +2,7 @@
 
 source 'https://rubygems.org'
 
-# Specify your gem's dependencies in remote_record-github.gemspec
+# Specify your gem's dependencies in remote_record-template.gemspec
 gemspec
 
 gem 'rake', '~> 12.0'

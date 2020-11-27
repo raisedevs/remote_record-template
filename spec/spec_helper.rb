@@ -1,6 +1,6 @@
 # frozen_string_literal: true
 
-require 'remote_record/github'
+require 'remote_record/template'
 
 RSpec.configure do |config|
   # Enable flags like --only-failures and --next-failure
